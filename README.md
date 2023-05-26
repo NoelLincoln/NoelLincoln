@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **noelsobryant@gmail.com**
 
+- 📄 Know about my experiences [https://noellincoln.github.io/portfolio/](https://noellincoln.github.io/portfolio/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/noel_lincoln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noel_lincoln" height="30" width="40" /></a>
