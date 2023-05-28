@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/noel_lincoln" target="blank"><img src="https://img.shields.io/twitter/follow/noel_lincoln?logo=twitter&style=for-the-badge" alt="noel_lincoln" /></a> </p>
 
-- 🔭 I’m currently working on **An Ecommerce store made with Nodejs, NextJs, Tailwind CSS, Styled components and mongoDb**
+- 🔭 I’m currently a student at  <a href="microverse.org">**Microverse**</a>
 
 - 👯 I’m looking to collaborate on **Fintech applications and any other cool projects**
 
