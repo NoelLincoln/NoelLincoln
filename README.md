@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noel Bryant</h1>
 <h3 align="center">An ardent Full Stack Software developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noellincoln&label=Profile%20views&color=0e75b6&style=flat" alt="noellincoln" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noellincoln" alt="noellincoln" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/noel_lincoln" target="blank"><img src="https://img.shields.io/twitter/follow/noel_lincoln?logo=twitter&style=for-the-badge" alt="noel_lincoln" /></a> </p>
 
-- 🔭 I’m currently a student at  <a href="microverse.org">**Microverse**</a>
+- 🔭 I’m currently freelancing and open to any great opportunities 😀
 
 - 👯 I’m looking to collaborate on **Fintech applications and any other cool projects**
 
