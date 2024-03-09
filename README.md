@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **noelsobryant@gmail.com**
 
-- 📄 Know about my experiences [https://noellincoln.github.io/portfolio/](https://noellincoln.github.io/)
+- 📄 Know about my experiences [https://noellincoln.github.io/](https://noellincoln.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
