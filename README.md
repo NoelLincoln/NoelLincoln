@@ -2,7 +2,7 @@
 I'm Noel and here is a little
 
 # 💫 About Me:
-Full-Stack Developer with a passion for building high-quality<br>applications. Proficient in modern web technologies <br>Next.js | Nest.js | TypeScript | React and backend <br>development using Node.js | Ruby on Rails | PostgreSQL | MongoDB.   <br>I value a collaboration , always ready to tackle problems,<br> and have a constant drive to learn; Currently exploring generative<br>AI and learning how to implement LLMs .<br>Always happy to connect and have a conversation 😀.
+Full-Stack Developer with a passion for building high-quality applications. Proficient in modern web technologies <br>Next.js | Nest.js | TypeScript | React and backend development using Node.js | Ruby on Rails | PostgreSQL | MongoDB.   <br> I value a collaboration , always ready to tackle problems and have a constant drive to learn.<br> Currently exploring generative AI and learning how to implement LLMs .<br>Always happy to connect and have a conversation 😀.
 
 
 ## 🌐 Socials:
