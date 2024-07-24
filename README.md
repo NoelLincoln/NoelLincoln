@@ -1,4 +1,4 @@
-# 👋 Hi there,
+# 👋 Hi there
 I'm Noel and here is a little
 
 # 💫 About Me:
